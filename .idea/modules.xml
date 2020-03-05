@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Desktop/Web-Developer-Bootcamp/JS/.idea/JS.iml" filepath="$PROJECT_DIR$/../Desktop/Web-Developer-Bootcamp/JS/.idea/JS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/web-dev.iml" filepath="$PROJECT_DIR$/.idea/web-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Desktop/Web-Developer-Bootcamp/webdevbootcamp-master/.idea/webdevbootcamp-master.iml" filepath="$PROJECT_DIR$/../Desktop/Web-Developer-Bootcamp/webdevbootcamp-master/.idea/webdevbootcamp-master.iml" />
     </modules>
   </component>
 </project>
