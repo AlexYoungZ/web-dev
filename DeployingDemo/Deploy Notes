@@ -1,0 +1,18 @@
+Deploy Notes
+
+heroku login -i (interative)
+
+heroku.com (use for portfolio projects)
+
+heroku create (can specify domain name, refer to docs)
+
+git remote -v
+
+git push heroku master
+
+heroku log
+- to see errors / debug
+
+start scripts (package.json)
+git add / commit
+
